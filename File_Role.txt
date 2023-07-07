@@ -1,0 +1,39 @@
+┏File_Role.txt
+┣文件角色
+┗文件作用
+
+┏main.cpp
+┣主要的
+┗主程序
+
+┏Layout_controller/
+┣布局控制器
+┗用于控制窗口显示
+
+┏Layout_controller/Window_controller.cpp
+┣窗口控制器
+┗用于控制显示控件、文本、位置
+
+┏Layout_controller/Basic_controller.cpp
+┣基础控制器
+┗提供一些基础算法
+ 
+ 
+┏文件名
+┣翻译
+┣介绍
+┃
+┗附加
+
+
+┏━ main.cpp [主程序]
+┣━ Layout_controller [布局控制器]
+┃	┣━ Window_controller.cpp [窗口控制器]
+┃	┗━ Basic_controller.cpp [基础控制器]
+┗━ File_Role.txt [文件角色]
+
+
+
+
+
+
