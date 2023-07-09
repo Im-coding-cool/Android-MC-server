@@ -73,7 +73,7 @@ int main() {
           case 6:
           text(1, 50, 'x', "开源地址：https://github.com/xian-ren/Android-MC-server\n");
           text(1, 1, 's', "布局管理器版本：0.0.1");
-          text(1, 2, 's', "安装器版本：0.0.6");
+          text(1, 2, 's', "安装器版本：0.1.2");
           text(1, 3, 's', "作者寿命：又是无数个夜晚; int 寿命 = ?; ");
           break;
         }
