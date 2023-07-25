@@ -1,6 +1,7 @@
 # 安卓我的世界(Minecraft)一键开服工具
 ## 这是什么
-这是一个使用Termux一键安装我的世界服务器的工具。
+这是一个使用手机Termux一键安装我的世界服务器的工具。
+> 官方QQ群：588973451
 
 ## 工具特性
 他可以帮助你在手机中运行 Minecraft 服务端，并且使用了 [MCSM](https://github.com/MCSManager/MCSManager/tree/master) 服务器面板进行管理。
